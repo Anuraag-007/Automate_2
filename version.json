@@ -1,10 +1,13 @@
 {
-    "version": "1.0.5",
-    "release_notes": [
-        "Proforma / Quotation Header fixed",
-        "Payment Mode added in Customer/Supplier Credit Chat",
-        "New UPI payment mode added"
-    ],
-    "download_url": "https://github.com/Anuraag-007/Automate_main/releases/download/v1.0.4/Automate_Setup.exe",
-    "file_size_mb": 25.0
+  "version": "1.0.5",
+  "release_notes": [
+    "Proforma / Quotation Header fixed",
+    "Payment Mode added in Customer/Supplier Credit Chat",
+    "New UPI payment mode added",
+    "Delivery Challan now shows customer GSTIN",
+    "Serial No. / Expiry Date fixed on FMCG invoices",
+    "In-app update checker fixed"
+  ],
+  "download_url": "https://github.com/Anuraag-007/Automate_2/releases/download/v1.0.5/Automate_Setup.exe",
+  "file_size_mb": 110.55
 }
